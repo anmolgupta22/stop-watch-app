@@ -1,0 +1,11 @@
+<!-- res/drawable/rounded_corners_with_border.xml -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="27dp"
+        />
+    <solid android:color="#d2e4e1" /> <!-- Define your background color -->
+    <stroke
+        android:width="2dp"
+    android:color="#479083" />
+</shape>

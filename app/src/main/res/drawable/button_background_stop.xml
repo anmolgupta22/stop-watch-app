@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@color/pressed_color" /> <!-- Change to your desired light blue color -->
+    <corners android:radius="10dp" />
+</shape>

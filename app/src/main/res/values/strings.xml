@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">stop watch</string>
+
+    <string-array name="time_suggestions">
+        <item>SECONDS</item>
+        <item>MILLISECONDS</item>
+    </string-array>
+</resources>
